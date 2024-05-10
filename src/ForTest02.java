@@ -24,6 +24,16 @@ public class ForTest02 {
 			}
 			System.out.println("---------");
 		}
+		
+	// 이중 for문 별찍기
+	// *
+	// **
+	// ***
+	// ****
+	// *****
+
+		
+		
 		for(int i=1;i<=5;i++) {
 			for(int j=1;j<=i;j++) {
 				System.out.print("*");
