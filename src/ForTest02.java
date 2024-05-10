@@ -31,7 +31,6 @@ public class ForTest02 {
 			System.out.print("\n");
 		}
 		
-		
 		}
 		
 	}
